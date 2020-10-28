@@ -22,4 +22,4 @@ python3 main.py --video swing.mp4
 Press 's' and use mouse to draw bounding box on object, press 'enter' to confirm selection.
 
 ## Resources
-[Affine and Projective Transformations](https://www.graphicsmill.com/docs/gm5/Transformations.htm)
+[Learn OpenCV](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
